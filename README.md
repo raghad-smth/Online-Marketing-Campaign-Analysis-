@@ -6,8 +6,8 @@ This project explores a marketing dataset from an online electronics company tha
 
 ##  Project Structure
 
-- `Online_Marketing_Dashboard.pdf`: The final dashboard with visuals and KPIs.
-- `Sales_Insights_Recommendations.pdf`: Full written analysis including story, KPIs, and data-driven recommendations.
+- `Marketing_Dataset_Task1.pdf`: The final dashboard with visuals and KPIs.
+- `Online_Marketing.pdf`: Full written analysis including story, KPIs, and data-driven recommendations.
 
 ---
 
