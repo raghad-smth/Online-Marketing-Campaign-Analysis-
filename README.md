@@ -38,14 +38,6 @@ This project explores a marketing dataset from an online electronics company tha
 - **Google Docs** for documentation
 - **GitHub** for version control and publishing
 
----
-
-## Files Included
-
-| File                          | Description                                  |
-|------------------------------|----------------------------------------------|
-| `Online_Marketing_Dashboard.pdf` | Interactive dashboard with visuals              |
-| `Sales_Insights_Recommendations.pdf` | Summary of insights, findings, and next steps |
 
 ---
 
